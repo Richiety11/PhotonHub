@@ -8,7 +8,7 @@ if (!firebase.apps.length) {
   firebase.initializeApp(FIREBASE_CONFIG);
 }
 const writeUserData =(userInfo)=> {
-  firebase.database().ref('user0001').push({
+  firebase.database().ref('user0001'.userInfo).push({
     userInfo
   }).then((data)=>{
     //success callback

@@ -1,7 +1,7 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
 
-    apiKey: "AIzaSyBXknscZ9q8H332wEk23cHwoALTwqT0it8",
+  apiKey: "AIzaSyBXknscZ9q8H332wEk23cHwoALTwqT0it8",
   authDomain: "photoninnovationhub1.firebaseapp.com",
   projectId: "photoninnovationhub1",
   storageBucket: "photoninnovationhub1.appspot.com",
